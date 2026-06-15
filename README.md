@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
 currently working at:
 
 ### Internship <img src="https://proto-void.vercel.app/assets/logo.png" width="25"/> [ProtoVoid](https://proto-void.vercel.app/)
@@ -14,8 +15,8 @@ Other        1 hr 2 mins           ████▒░░░░░░░░░░
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->          
 🌸  Completed 2 tasks today           
-✅  Completed 2 tasks so far           
-⏳  Longest streak is 2 days
+✅  Completed 4 tasks so far           
+⏳  Longest streak is 3 days
 
 📝 **My Goals:**
 - [ ] ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) Learn Django
