@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"/>
 currently working at:
 
-### Internship <img src="https://proto-void.vercel.app/assets/logo.png" width="25"/> [ProtoVoid](https://proto-void.vercel.app/)
+### Internship <img src="https://proto-void.vercel.app/assets/logo.png" width="25"/> [ProtoVoid](https://proto-void.vercel.app/) **(Python Based Full Stack Development)**
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
