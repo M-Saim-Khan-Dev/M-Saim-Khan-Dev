@@ -7,7 +7,7 @@ currently working at:
 <!--START_SECTION:waka-->
 ```txt
 Python       2 hrs 30 mins         ██████████▓░░░░░░░░░░░░░░   43.26 %
-C#           1 hr 10 mins          █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+C++          1 hr 10 mins          █████░░░░░░░░░░░░░░░░░░░░   20.29 %
 Other        1 hr 2 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
 ```
 <!--END_SECTION:waka-->
