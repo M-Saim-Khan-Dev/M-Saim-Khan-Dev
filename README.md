@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:your@email.com) :)
+for freelance work? do reach, [email](saimkhan02255@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -9,16 +9,16 @@ Other        1 hr 2 mins           ████▒░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/your-username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+<!-- TODO-IST:START -->          
+🌸  Completed 2 tasks today           
+✅  Completed 2 tasks so far           
+⏳  Longest streak is 2 days
+
+📝 **My Goals:**
+- [ ] ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) Learn Django
+- [ ] ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) Learn Angular
+- [ ] ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) Learn FastAPI
 <!-- TODO-IST:END -->
 
 📈 my github stats
