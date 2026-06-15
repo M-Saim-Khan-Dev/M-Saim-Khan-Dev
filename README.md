@@ -1,4 +1,6 @@
-for freelance work? do reach, [email](saimkhan02255@gmail.com) :)
+currently working at:
+
+### Internship <img src="https://proto-void.vercel.app/assets/logo.png" width="25"/> [ProtoVoid](https://proto-void.vercel.app/)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
